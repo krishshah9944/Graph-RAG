@@ -6,3 +6,4 @@ langchain-neo4j
 langchain-core
 pypdf
 neo4j
+python-dotenv
